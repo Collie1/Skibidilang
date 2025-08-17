@@ -12,6 +12,8 @@ Skibidilang Interpreter is a simple stack-based programming language implemented
 - Stack operations: `dupe`, `swap`, `drop`
 - Conditional execution: `eq`, `if_true ... endif`
 
+### It's turin complete 👌
+
 ## Instructions
 
 - `tickle "value"` — push a string or number onto the stack  
