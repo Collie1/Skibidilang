@@ -32,7 +32,7 @@ Skibidilang Interpreter is a simple stack-based programming language implemented
 
 
  ## HOW TO RUN
- ./SkibidiLang <program>
+ ./SkibidiLang "program"
 
  ## Note
  I was a bit lazy so i didn't add comments 15 stars and i'm going to add comments!
