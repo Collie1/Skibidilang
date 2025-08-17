@@ -1,0 +1,39 @@
+tickle "Arg 1:"
+yap
+hearmeout
+tickle "Arg 2:"
+yap
+hearmeout
+tickle "Choose operation (1:Add 2:Sub 3:Mul 4:Div):"
+yap
+hearmeout
+
+dupe
+tickle 1
+eq
+if_true
+    +
+endif
+
+dupe
+tickle 2
+eq
+if_true
+    -
+endif
+
+dupe
+tickle 3
+eq
+if_true
+    *
+endif
+
+dupe
+tickle 4
+eq
+if_true
+    /
+endif
+
+yap
