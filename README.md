@@ -2,6 +2,8 @@
 
 Skibidilang Interpreter is a simple stack-based programming language implemented in C++. It supports pushing values, basic arithmetic, stack operations, input/output, and simple conditional execution.
 
+![plot](./res/skibidiicon.png)
+
 ## Features
 
 - Stack-based execution model
