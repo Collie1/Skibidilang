@@ -27,6 +27,10 @@ Skibidilang Interpreter is a simple stack-based programming language implemented
 - `eq` — compare the top two values for equality  
 - `if_true ... endif` — executes the instructions inside if the top of the stack is 1
 
+
+ ## HOW TO RUN
+ ./SkibidiLang <program>
+
  ## Note
  I was a bit lazy so i didn't add comments 15 stars and i'm going to add comments!
 
